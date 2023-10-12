@@ -26,5 +26,9 @@
         echo 'No books found.';
     }
     ?>
+
+    <br>
+    <a href="add_book.php">Add a Book</a>
+
 </body>
 </html>
