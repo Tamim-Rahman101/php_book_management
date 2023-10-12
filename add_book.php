@@ -48,6 +48,7 @@
             </tr>
         </table>
         <input type="submit" value="Add">
+        <input type="button" onclick="window.location.href='https://localhost/json_book_database/';" value="Book List">
     </form>
 </body>
 </html>
