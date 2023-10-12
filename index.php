@@ -30,5 +30,11 @@
     <br>
     <a href="add_book.php">Add a Book</a>
 
+    <br>
+    <br>
+    <form action="search_book.php" method="get">
+        <input type="text" name="query" placeholder="Search by title or author">
+        <input type="submit" value="Search">
+    </form>
 </body>
 </html>
